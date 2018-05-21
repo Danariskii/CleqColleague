@@ -1,2 +1,2 @@
-# CleqColleague
-CRUD VUE JS &amp; FIREBASE
+CleqColleague
+CRUD VUE JS & FIREBASE
